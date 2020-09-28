@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="judul">Judul</string>
+    <string name="overview">Overview</string>
+    <string name="film_data_favorit">No favorite movies have been added</string>
+    <string name="film_data_ditambahkan">Favorite Movie Added</string>
+    <string name="film_data_dihapus">Favorite Movie Deleted</string>
+
+    <string name="hapus">Delete</string>
+    <string name="film_pesan_hapus">Delete this movie from favorite list ?</string>
+    <string name="ya">Yes</string>
+    <string name="tidak">No</string>
+</resources>

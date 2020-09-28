@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+    <string name="favorite">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="overview">Overview</string>
+    <string name="language">Language</string>
+    <string name="film_data_favorit">No favorite movies have been added</string>
+    <string name="film_data_ditambahkan">Favorite Movie Added</string>
+    <string name="film_data_dihapus">Favorite Movie Deleted</string>
+    <string name="tv_data_favorit">No favorite TV Show have been added</string>
+    <string name="tv_data_ditambahkan">Favorite TV Show Added</string>
+    <string name="tv_data_dihapus">Favorite TV Show Deleted</string>
+
+    <string name="hapus">Delete</string>
+    <string name="film_pesan_hapus">Delete this movie from favorite list ?</string>
+    <string name="tv_pesan_hapus">Delete this tv show from favorite list ?</string>
+    <string name="ya">Yes</string>
+    <string name="tidak">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="notif_harian">Daily Reminder</string>
+    <string name="notif_upcoming">Release Today Reminder</string>
+    <string name="notif_msg">Movie Catalogue missing you.... </string>
+    <string name="judul">Title</string>
+    <string name="notif_msg_rilis">Today s Release</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+
+</resources>
